@@ -8,3 +8,7 @@ Backend:
 	Express.js
 	MongoDB
 	Mongoose
+
+
+~ build and deploy~
+-npm run dev
